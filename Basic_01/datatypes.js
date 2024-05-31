@@ -23,4 +23,7 @@ console.log(typeof isLoggedIn); // boolean
 console.log(typeof null); // object
 console.log(typeof undefined); // undefined
 
+// we can use typeof as a function also typeof()
+console.log(typeof(age));
+
 
