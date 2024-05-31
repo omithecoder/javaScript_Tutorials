@@ -30,3 +30,5 @@ let n = 2
 console.log(s === n); // false     since "===" this operator checks the variables strictly means along with value it checks the datatype also
 
 console.log(s == n); //true    since "==" this operator only checks for value
+
+ 
